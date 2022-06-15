@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jeison Arenales
-> DevOps Engineer at [Blackboard](https://www.blackboard.com)
+> DevOps Engineer at [S4N, an EPAM Company](https://www.linkedin.com/company/s4n/)
 
 <h3>🧔🏽💻 About me</h3>
 <ul>
@@ -14,9 +14,8 @@
 ```
 skills = {
     'cloud': ['aws'],
-    'code': ['php', 'python', 'ruby'],
-    'tools': ['chef', 'docker', 'jenkins', 'terraform', 'vagrant'],
-    'loading': ['kubernetes']
+    'code': ['python', 'ruby'],
+    'tools': ['docker', 'kubernetes', 'jenkins', 'terraform', 'chef']
 }
 ```
 
